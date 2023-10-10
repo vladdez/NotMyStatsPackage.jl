@@ -38,3 +38,7 @@ end
 function Base.length(s::StatResult)
     return s.n
 end
+
+function printOwner()
+    println("sims1253")
+end
